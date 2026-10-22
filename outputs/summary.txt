@@ -1,0 +1,31 @@
+UPI SPENDING ANALYSIS
+Input: data/sample_upi_transactions.csv
+Rows read: 523 | kept: 523 | dropped (bad date/amount/type): 0/0/0 | possible duplicates kept: 0
+Period: 2025-10-01 to 2026-09-30 (12 months)
+Total spend: INR 184,165 across 511 payments; monthly median INR 13,772, mean INR 15,347
+
+Top contributors to spend:
+  1. Food & Dining      INR    43,909  23.8%  (cumulative 23.8%)
+  2. Groceries          INR    31,603  17.2%  (cumulative 41.0%)
+  3. Shopping           INR    28,268  15.3%  (cumulative 56.4%)
+  4. Transfers          INR    21,193  11.5%  (cumulative 67.9%)
+  5. Transport          INR    17,847   9.7%  (cumulative 77.6%)
+
+Flagged payments (9):
+  2026-06-22  Coursera                   INR 8,999 is 26.6x the typical Education payment (median INR 338)
+  2026-08-27  UPI Transfer - Rohan       INR 6,000 is 21.1x the typical Transfers payment (median INR 285)
+  2026-03-14  Zomato                     INR 2,850 is 12.0x the typical Food & Dining payment (median INR 238)
+  2025-10-19  Myntra                     INR 9,800 is 11.5x the typical Shopping payment (median INR 852)
+  2026-05-09  MSEDCL Electricity Bill    INR 3,450 is 6.3x the typical Bills & Utilities payment (median INR 544)
+  2025-12-28  BigBasket                  INR 1,437 is 2.5x the typical Groceries payment (median INR 565)
+  2025-12-09  Blinkit                    INR 1,096 is 1.9x the typical Groceries payment (median INR 565)
+  2026-02-28  BigBasket                  INR 1,076 is 1.9x the typical Groceries payment (median INR 565)
+  2026-03-26  UPI Transfer - Priya       INR 994 is 3.5x the typical Transfers payment (median INR 285)
+
+Flagged months (6):
+  Education spend of INR 9,443 in 2026-06 vs typical INR 0 for other months
+  Bills & Utilities spend of INR 3,749 in 2026-05 vs typical INR 1,200 for other months
+  Transfers spend of INR 6,890 in 2026-08 vs typical INR 979 for other months
+  Shopping spend of INR 10,951 in 2025-10 vs typical INR 1,352 for other months
+  Groceries spend of INR 5,874 in 2025-12 vs typical INR 2,336 for other months
+  TOTAL spend of INR 23,725 in 2026-06 vs typical INR 12,746 for other months

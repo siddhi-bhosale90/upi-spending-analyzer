@@ -1,0 +1,10 @@
+category,rank,total_spend,txn_count,avg_txn,median_txn,share_pct,cumulative_share_pct
+Food & Dining,1,43909,168,261.4,237.5,23.8,23.8
+Groceries,2,31603,54,585.2,565.0,17.2,41.0
+Shopping,3,28268,20,1413.4,851.5,15.3,56.4
+Transfers,4,21193,44,481.7,285.0,11.5,67.9
+Transport,5,17847,143,124.8,110.0,9.7,77.6
+Bills & Utilities,6,16949,24,706.2,543.5,9.2,86.8
+Education,7,11941,10,1194.1,338.0,6.5,93.2
+Entertainment,8,8568,35,244.8,199.0,4.7,97.9
+Health,9,3887,13,299.0,248.0,2.1,100.0

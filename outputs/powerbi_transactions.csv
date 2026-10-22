@@ -1,0 +1,524 @@
+date,month,month_start,description,amount,type,category,is_anomaly
+2025-10-01,2025-10,2025-10-01,UPI Credit - Monthly Allowance,14000,CREDIT,Credit,False
+2025-10-02,2025-10,2025-10-01,Uber,80,DEBIT,Transport,False
+2025-10-03,2025-10,2025-10-01,Cafe Coffee Day,299,DEBIT,Food & Dining,False
+2025-10-03,2025-10,2025-10-01,Rapido,147,DEBIT,Transport,False
+2025-10-04,2025-10,2025-10-01,Apollo Pharmacy,242,DEBIT,Health,False
+2025-10-04,2025-10,2025-10-01,Rapido,155,DEBIT,Transport,False
+2025-10-05,2025-10,2025-10-01,Jio Recharge,299,DEBIT,Bills & Utilities,False
+2025-10-06,2025-10,2025-10-01,Chai Point,313,DEBIT,Food & Dining,False
+2025-10-08,2025-10,2025-10-01,Local Kirana Store,561,DEBIT,Groceries,False
+2025-10-09,2025-10,2025-10-01,Campus Canteen,313,DEBIT,Food & Dining,False
+2025-10-09,2025-10,2025-10-01,MSEDCL Electricity Bill,788,DEBIT,Bills & Utilities,False
+2025-10-12,2025-10,2025-10-01,Chai Point,487,DEBIT,Food & Dining,False
+2025-10-12,2025-10,2025-10-01,Netflix,199,DEBIT,Entertainment,False
+2025-10-12,2025-10,2025-10-01,UPI Transfer - Aditya,165,DEBIT,Transfers,False
+2025-10-13,2025-10,2025-10-01,Cafe Coffee Day,235,DEBIT,Food & Dining,False
+2025-10-14,2025-10,2025-10-01,Zomato,271,DEBIT,Food & Dining,False
+2025-10-14,2025-10,2025-10-01,Chai Point,353,DEBIT,Food & Dining,False
+2025-10-14,2025-10,2025-10-01,PMPML Bus Pass,232,DEBIT,Transport,False
+2025-10-15,2025-10,2025-10-01,Spotify,119,DEBIT,Entertainment,False
+2025-10-16,2025-10,2025-10-01,Flipkart,1151,DEBIT,Shopping,False
+2025-10-16,2025-10,2025-10-01,Swiggy,277,DEBIT,Food & Dining,False
+2025-10-17,2025-10,2025-10-01,Chai Point,116,DEBIT,Food & Dining,False
+2025-10-18,2025-10,2025-10-01,PMPML Bus Pass,93,DEBIT,Transport,False
+2025-10-18,2025-10,2025-10-01,Rapido,94,DEBIT,Transport,False
+2025-10-19,2025-10,2025-10-01,Myntra,9800,DEBIT,Shopping,True
+2025-10-19,2025-10,2025-10-01,Uber,164,DEBIT,Transport,False
+2025-10-19,2025-10,2025-10-01,Udemy,336,DEBIT,Education,False
+2025-10-22,2025-10,2025-10-01,Apollo Pharmacy,174,DEBIT,Health,False
+2025-10-22,2025-10,2025-10-01,Dominos Pizza,216,DEBIT,Food & Dining,False
+2025-10-23,2025-10,2025-10-01,Cafe Coffee Day,241,DEBIT,Food & Dining,False
+2025-10-24,2025-10,2025-10-01,Zomato,198,DEBIT,Food & Dining,False
+2025-10-24,2025-10,2025-10-01,Zepto,629,DEBIT,Groceries,False
+2025-10-24,2025-10,2025-10-01,Cafe Coffee Day,266,DEBIT,Food & Dining,False
+2025-10-25,2025-10,2025-10-01,Zomato,285,DEBIT,Food & Dining,False
+2025-10-26,2025-10,2025-10-01,BigBasket,562,DEBIT,Groceries,False
+2025-10-26,2025-10,2025-10-01,Uber,62,DEBIT,Transport,False
+2025-10-27,2025-10,2025-10-01,Blinkit,564,DEBIT,Groceries,False
+2025-10-27,2025-10,2025-10-01,Dominos Pizza,229,DEBIT,Food & Dining,False
+2025-10-27,2025-10,2025-10-01,Rapido,179,DEBIT,Transport,False
+2025-10-28,2025-10,2025-10-01,Swiggy,262,DEBIT,Food & Dining,False
+2025-10-29,2025-10,2025-10-01,Dominos Pizza,192,DEBIT,Food & Dining,False
+2025-10-29,2025-10,2025-10-01,Ola,141,DEBIT,Transport,False
+2025-10-31,2025-10,2025-10-01,IRCTC,100,DEBIT,Transport,False
+2025-10-31,2025-10,2025-10-01,Ola,87,DEBIT,Transport,False
+2025-10-31,2025-10,2025-10-01,PMPML Bus Pass,119,DEBIT,Transport,False
+2025-11-01,2025-11,2025-11-01,PMPML Bus Pass,211,DEBIT,Transport,False
+2025-11-01,2025-11,2025-11-01,UPI Credit - Monthly Allowance,14000,CREDIT,Credit,False
+2025-11-02,2025-11,2025-11-01,Swiggy,257,DEBIT,Food & Dining,False
+2025-11-03,2025-11,2025-11-01,Campus Canteen,403,DEBIT,Food & Dining,False
+2025-11-03,2025-11,2025-11-01,PVR Cinemas,689,DEBIT,Entertainment,False
+2025-11-04,2025-11,2025-11-01,Blinkit,439,DEBIT,Groceries,False
+2025-11-04,2025-11,2025-11-01,Rapido,104,DEBIT,Transport,False
+2025-11-05,2025-11,2025-11-01,IRCTC,58,DEBIT,Transport,False
+2025-11-05,2025-11,2025-11-01,Jio Recharge,299,DEBIT,Bills & Utilities,False
+2025-11-05,2025-11,2025-11-01,Rapido,68,DEBIT,Transport,False
+2025-11-06,2025-11,2025-11-01,Campus Canteen,384,DEBIT,Food & Dining,False
+2025-11-06,2025-11,2025-11-01,Dominos Pizza,248,DEBIT,Food & Dining,False
+2025-11-06,2025-11,2025-11-01,Uber,79,DEBIT,Transport,False
+2025-11-09,2025-11,2025-11-01,Chai Point,184,DEBIT,Food & Dining,False
+2025-11-09,2025-11,2025-11-01,MSEDCL Electricity Bill,847,DEBIT,Bills & Utilities,False
+2025-11-09,2025-11,2025-11-01,Rapido,88,DEBIT,Transport,False
+2025-11-09,2025-11,2025-11-01,Swiggy,287,DEBIT,Food & Dining,False
+2025-11-09,2025-11,2025-11-01,UPI Transfer - Rohan,698,DEBIT,Transfers,False
+2025-11-10,2025-11,2025-11-01,IRCTC,319,DEBIT,Transport,False
+2025-11-10,2025-11,2025-11-01,Campus Canteen,250,DEBIT,Food & Dining,False
+2025-11-10,2025-11,2025-11-01,BigBasket,362,DEBIT,Groceries,False
+2025-11-11,2025-11,2025-11-01,Zepto,495,DEBIT,Groceries,False
+2025-11-12,2025-11,2025-11-01,Netflix,199,DEBIT,Entertainment,False
+2025-11-13,2025-11,2025-11-01,Dominos Pizza,137,DEBIT,Food & Dining,False
+2025-11-13,2025-11,2025-11-01,Ola,90,DEBIT,Transport,False
+2025-11-14,2025-11,2025-11-01,Chai Point,165,DEBIT,Food & Dining,False
+2025-11-14,2025-11,2025-11-01,Chai Point,187,DEBIT,Food & Dining,False
+2025-11-14,2025-11,2025-11-01,Dominos Pizza,201,DEBIT,Food & Dining,False
+2025-11-15,2025-11,2025-11-01,Cafe Coffee Day,236,DEBIT,Food & Dining,False
+2025-11-15,2025-11,2025-11-01,Spotify,119,DEBIT,Entertainment,False
+2025-11-15,2025-11,2025-11-01,UPI Transfer - Priya,237,DEBIT,Transfers,False
+2025-11-17,2025-11,2025-11-01,BigBasket,549,DEBIT,Groceries,False
+2025-11-20,2025-11,2025-11-01,Ola,175,DEBIT,Transport,False
+2025-11-20,2025-11,2025-11-01,Swiggy,308,DEBIT,Food & Dining,False
+2025-11-22,2025-11,2025-11-01,Zomato,309,DEBIT,Food & Dining,False
+2025-11-22,2025-11,2025-11-01,Local Kirana Store,574,DEBIT,Groceries,False
+2025-11-23,2025-11,2025-11-01,Dominos Pizza,161,DEBIT,Food & Dining,False
+2025-11-23,2025-11,2025-11-01,PMPML Bus Pass,136,DEBIT,Transport,False
+2025-11-23,2025-11,2025-11-01,Zomato,166,DEBIT,Food & Dining,False
+2025-11-25,2025-11,2025-11-01,Campus Canteen,268,DEBIT,Food & Dining,False
+2025-11-26,2025-11,2025-11-01,DMart,450,DEBIT,Groceries,False
+2025-11-26,2025-11,2025-11-01,IRCTC,242,DEBIT,Transport,False
+2025-11-28,2025-11,2025-11-01,Ola,102,DEBIT,Transport,False
+2025-11-29,2025-11,2025-11-01,Ola,167,DEBIT,Transport,False
+2025-11-29,2025-11,2025-11-01,UPI Transfer - Rohan,272,DEBIT,Transfers,False
+2025-11-30,2025-11,2025-11-01,Ola,86,DEBIT,Transport,False
+2025-11-30,2025-11,2025-11-01,UPI Transfer - Rohan,441,DEBIT,Transfers,False
+2025-12-01,2025-12,2025-12-01,Ola,75,DEBIT,Transport,False
+2025-12-01,2025-12,2025-12-01,UPI Credit - Monthly Allowance,14000,CREDIT,Credit,False
+2025-12-02,2025-12,2025-12-01,Amazon,1059,DEBIT,Shopping,False
+2025-12-03,2025-12,2025-12-01,Dominos Pizza,273,DEBIT,Food & Dining,False
+2025-12-03,2025-12,2025-12-01,Cafe Coffee Day,317,DEBIT,Food & Dining,False
+2025-12-04,2025-12,2025-12-01,Apollo Pharmacy,451,DEBIT,Health,False
+2025-12-05,2025-12,2025-12-01,Blinkit,605,DEBIT,Groceries,False
+2025-12-05,2025-12,2025-12-01,Dominos Pizza,205,DEBIT,Food & Dining,False
+2025-12-05,2025-12,2025-12-01,Jio Recharge,299,DEBIT,Bills & Utilities,False
+2025-12-06,2025-12,2025-12-01,Campus Canteen,555,DEBIT,Food & Dining,False
+2025-12-06,2025-12,2025-12-01,Flipkart,342,DEBIT,Shopping,False
+2025-12-08,2025-12,2025-12-01,UPI Transfer - Rohan,159,DEBIT,Transfers,False
+2025-12-08,2025-12,2025-12-01,Ola,105,DEBIT,Transport,False
+2025-12-08,2025-12,2025-12-01,Cafe Coffee Day,178,DEBIT,Food & Dining,False
+2025-12-09,2025-12,2025-12-01,Blinkit,1096,DEBIT,Groceries,True
+2025-12-09,2025-12,2025-12-01,MSEDCL Electricity Bill,880,DEBIT,Bills & Utilities,False
+2025-12-10,2025-12,2025-12-01,Blinkit,952,DEBIT,Groceries,False
+2025-12-10,2025-12,2025-12-01,Chai Point,278,DEBIT,Food & Dining,False
+2025-12-11,2025-12,2025-12-01,Myntra,784,DEBIT,Shopping,False
+2025-12-11,2025-12,2025-12-01,Campus Canteen,108,DEBIT,Food & Dining,False
+2025-12-12,2025-12,2025-12-01,Netflix,199,DEBIT,Entertainment,False
+2025-12-12,2025-12,2025-12-01,BigBasket,457,DEBIT,Groceries,False
+2025-12-14,2025-12,2025-12-01,Swiggy,232,DEBIT,Food & Dining,False
+2025-12-15,2025-12,2025-12-01,BigBasket,496,DEBIT,Groceries,False
+2025-12-15,2025-12,2025-12-01,Spotify,119,DEBIT,Entertainment,False
+2025-12-16,2025-12,2025-12-01,PMPML Bus Pass,139,DEBIT,Transport,False
+2025-12-17,2025-12,2025-12-01,Uber,77,DEBIT,Transport,False
+2025-12-19,2025-12,2025-12-01,Campus Canteen,213,DEBIT,Food & Dining,False
+2025-12-20,2025-12,2025-12-01,Cafe Coffee Day,138,DEBIT,Food & Dining,False
+2025-12-21,2025-12,2025-12-01,Swiggy,257,DEBIT,Food & Dining,False
+2025-12-21,2025-12,2025-12-01,UPI Transfer - Aditya,654,DEBIT,Transfers,False
+2025-12-22,2025-12,2025-12-01,Myntra,790,DEBIT,Shopping,False
+2025-12-23,2025-12,2025-12-01,Cafe Coffee Day,171,DEBIT,Food & Dining,False
+2025-12-23,2025-12,2025-12-01,IRCTC,113,DEBIT,Transport,False
+2025-12-24,2025-12,2025-12-01,UPI Transfer - Rohan,848,DEBIT,Transfers,False
+2025-12-24,2025-12,2025-12-01,Dominos Pizza,237,DEBIT,Food & Dining,False
+2025-12-25,2025-12,2025-12-01,PVR Cinemas,555,DEBIT,Entertainment,False
+2025-12-26,2025-12,2025-12-01,Ola,119,DEBIT,Transport,False
+2025-12-26,2025-12,2025-12-01,Flipkart,2022,DEBIT,Shopping,False
+2025-12-27,2025-12,2025-12-01,Cafe Coffee Day,169,DEBIT,Food & Dining,False
+2025-12-27,2025-12,2025-12-01,Swiggy,245,DEBIT,Food & Dining,False
+2025-12-27,2025-12,2025-12-01,Zepto,354,DEBIT,Groceries,False
+2025-12-28,2025-12,2025-12-01,BigBasket,1437,DEBIT,Groceries,True
+2025-12-29,2025-12,2025-12-01,Zepto,477,DEBIT,Groceries,False
+2025-12-30,2025-12,2025-12-01,Chai Point,218,DEBIT,Food & Dining,False
+2025-12-30,2025-12,2025-12-01,Rapido,242,DEBIT,Transport,False
+2026-01-01,2026-01,2026-01-01,Ola,74,DEBIT,Transport,False
+2026-01-01,2026-01,2026-01-01,PMPML Bus Pass,214,DEBIT,Transport,False
+2026-01-01,2026-01,2026-01-01,UPI Credit - Monthly Allowance,14000,CREDIT,Credit,False
+2026-01-02,2026-01,2026-01-01,Swiggy,150,DEBIT,Food & Dining,False
+2026-01-02,2026-01,2026-01-01,Zomato,325,DEBIT,Food & Dining,False
+2026-01-03,2026-01,2026-01-01,Zomato,161,DEBIT,Food & Dining,False
+2026-01-03,2026-01,2026-01-01,Zomato,235,DEBIT,Food & Dining,False
+2026-01-03,2026-01,2026-01-01,Zepto,595,DEBIT,Groceries,False
+2026-01-05,2026-01,2026-01-01,Campus Canteen,257,DEBIT,Food & Dining,False
+2026-01-05,2026-01,2026-01-01,Chai Point,112,DEBIT,Food & Dining,False
+2026-01-05,2026-01,2026-01-01,Jio Recharge,299,DEBIT,Bills & Utilities,False
+2026-01-05,2026-01,2026-01-01,Ola,168,DEBIT,Transport,False
+2026-01-09,2026-01,2026-01-01,MSEDCL Electricity Bill,906,DEBIT,Bills & Utilities,False
+2026-01-09,2026-01,2026-01-01,Myntra,725,DEBIT,Shopping,False
+2026-01-10,2026-01,2026-01-01,BigBasket,494,DEBIT,Groceries,False
+2026-01-12,2026-01,2026-01-01,Netflix,199,DEBIT,Entertainment,False
+2026-01-12,2026-01,2026-01-01,PMPML Bus Pass,73,DEBIT,Transport,False
+2026-01-13,2026-01,2026-01-01,Campus Canteen,192,DEBIT,Food & Dining,False
+2026-01-13,2026-01,2026-01-01,IRCTC,54,DEBIT,Transport,False
+2026-01-14,2026-01,2026-01-01,Uber,168,DEBIT,Transport,False
+2026-01-15,2026-01,2026-01-01,Rapido,40,DEBIT,Transport,False
+2026-01-15,2026-01,2026-01-01,Spotify,119,DEBIT,Entertainment,False
+2026-01-15,2026-01,2026-01-01,BookMyShow,340,DEBIT,Entertainment,False
+2026-01-15,2026-01,2026-01-01,Dominos Pizza,285,DEBIT,Food & Dining,False
+2026-01-16,2026-01,2026-01-01,Chai Point,302,DEBIT,Food & Dining,False
+2026-01-17,2026-01,2026-01-01,Chai Point,297,DEBIT,Food & Dining,False
+2026-01-17,2026-01,2026-01-01,Dominos Pizza,266,DEBIT,Food & Dining,False
+2026-01-17,2026-01,2026-01-01,Uber,87,DEBIT,Transport,False
+2026-01-18,2026-01,2026-01-01,Campus Canteen,307,DEBIT,Food & Dining,False
+2026-01-20,2026-01,2026-01-01,Apollo Pharmacy,296,DEBIT,Health,False
+2026-01-20,2026-01,2026-01-01,Cafe Coffee Day,299,DEBIT,Food & Dining,False
+2026-01-22,2026-01,2026-01-01,Ola,113,DEBIT,Transport,False
+2026-01-23,2026-01,2026-01-01,Blinkit,359,DEBIT,Groceries,False
+2026-01-23,2026-01,2026-01-01,Cafe Coffee Day,256,DEBIT,Food & Dining,False
+2026-01-23,2026-01,2026-01-01,IRCTC,212,DEBIT,Transport,False
+2026-01-23,2026-01,2026-01-01,PMPML Bus Pass,143,DEBIT,Transport,False
+2026-01-25,2026-01,2026-01-01,Blinkit,572,DEBIT,Groceries,False
+2026-01-25,2026-01,2026-01-01,Swiggy,283,DEBIT,Food & Dining,False
+2026-01-26,2026-01,2026-01-01,Local Kirana Store,564,DEBIT,Groceries,False
+2026-01-28,2026-01,2026-01-01,PMPML Bus Pass,352,DEBIT,Transport,False
+2026-01-30,2026-01,2026-01-01,Campus Canteen,236,DEBIT,Food & Dining,False
+2026-01-30,2026-01,2026-01-01,Chai Point,225,DEBIT,Food & Dining,False
+2026-01-31,2026-01,2026-01-01,Cafe Coffee Day,287,DEBIT,Food & Dining,False
+2026-01-31,2026-01,2026-01-01,Rapido,59,DEBIT,Transport,False
+2026-02-01,2026-02,2026-02-01,Swiggy,160,DEBIT,Food & Dining,False
+2026-02-01,2026-02,2026-02-01,UPI Credit - Monthly Allowance,14000,CREDIT,Credit,False
+2026-02-01,2026-02,2026-02-01,Zomato,169,DEBIT,Food & Dining,False
+2026-02-02,2026-02,2026-02-01,UPI Transfer - Aditya,526,DEBIT,Transfers,False
+2026-02-03,2026-02,2026-02-01,Blinkit,550,DEBIT,Groceries,False
+2026-02-03,2026-02,2026-02-01,Chai Point,238,DEBIT,Food & Dining,False
+2026-02-04,2026-02,2026-02-01,Cafe Coffee Day,208,DEBIT,Food & Dining,False
+2026-02-04,2026-02,2026-02-01,Swiggy,225,DEBIT,Food & Dining,False
+2026-02-05,2026-02,2026-02-01,Jio Recharge,299,DEBIT,Bills & Utilities,False
+2026-02-05,2026-02,2026-02-01,Ola,290,DEBIT,Transport,False
+2026-02-07,2026-02,2026-02-01,BookMyShow,332,DEBIT,Entertainment,False
+2026-02-09,2026-02,2026-02-01,Rapido,87,DEBIT,Transport,False
+2026-02-09,2026-02,2026-02-01,Chai Point,137,DEBIT,Food & Dining,False
+2026-02-09,2026-02,2026-02-01,MSEDCL Electricity Bill,827,DEBIT,Bills & Utilities,False
+2026-02-10,2026-02,2026-02-01,Rapido,68,DEBIT,Transport,False
+2026-02-10,2026-02,2026-02-01,Rapido,93,DEBIT,Transport,False
+2026-02-11,2026-02,2026-02-01,BookMyShow,325,DEBIT,Entertainment,False
+2026-02-11,2026-02,2026-02-01,Chai Point,191,DEBIT,Food & Dining,False
+2026-02-11,2026-02,2026-02-01,Swiggy,318,DEBIT,Food & Dining,False
+2026-02-12,2026-02,2026-02-01,Netflix,199,DEBIT,Entertainment,False
+2026-02-13,2026-02,2026-02-01,DMart,595,DEBIT,Groceries,False
+2026-02-13,2026-02,2026-02-01,Cafe Coffee Day,220,DEBIT,Food & Dining,False
+2026-02-13,2026-02,2026-02-01,Zepto,463,DEBIT,Groceries,False
+2026-02-14,2026-02,2026-02-01,UPI Transfer - Rohan,394,DEBIT,Transfers,False
+2026-02-15,2026-02,2026-02-01,Swiggy,142,DEBIT,Food & Dining,False
+2026-02-15,2026-02,2026-02-01,Spotify,119,DEBIT,Entertainment,False
+2026-02-15,2026-02,2026-02-01,Chai Point,305,DEBIT,Food & Dining,False
+2026-02-15,2026-02,2026-02-01,PMPML Bus Pass,62,DEBIT,Transport,False
+2026-02-16,2026-02,2026-02-01,PMPML Bus Pass,90,DEBIT,Transport,False
+2026-02-16,2026-02,2026-02-01,MedPlus,497,DEBIT,Health,False
+2026-02-16,2026-02,2026-02-01,Cafe Coffee Day,222,DEBIT,Food & Dining,False
+2026-02-16,2026-02,2026-02-01,Local Kirana Store,310,DEBIT,Groceries,False
+2026-02-17,2026-02,2026-02-01,Ola,39,DEBIT,Transport,False
+2026-02-18,2026-02,2026-02-01,Ola,121,DEBIT,Transport,False
+2026-02-19,2026-02,2026-02-01,Cafe Coffee Day,181,DEBIT,Food & Dining,False
+2026-02-23,2026-02,2026-02-01,Cafe Coffee Day,187,DEBIT,Food & Dining,False
+2026-02-23,2026-02,2026-02-01,Chai Point,337,DEBIT,Food & Dining,False
+2026-02-24,2026-02,2026-02-01,Ola,73,DEBIT,Transport,False
+2026-02-26,2026-02,2026-02-01,DMart,588,DEBIT,Groceries,False
+2026-02-28,2026-02,2026-02-01,BigBasket,1076,DEBIT,Groceries,True
+2026-02-28,2026-02,2026-02-01,Rapido,109,DEBIT,Transport,False
+2026-03-01,2026-03,2026-03-01,UPI Credit - Monthly Allowance,14000,CREDIT,Credit,False
+2026-03-01,2026-03,2026-03-01,Apollo Pharmacy,196,DEBIT,Health,False
+2026-03-04,2026-03,2026-03-01,UPI Transfer - Aditya,789,DEBIT,Transfers,False
+2026-03-05,2026-03,2026-03-01,Jio Recharge,299,DEBIT,Bills & Utilities,False
+2026-03-07,2026-03,2026-03-01,Chai Point,164,DEBIT,Food & Dining,False
+2026-03-07,2026-03,2026-03-01,DMart,650,DEBIT,Groceries,False
+2026-03-08,2026-03,2026-03-01,UPI Transfer - Priya,103,DEBIT,Transfers,False
+2026-03-08,2026-03,2026-03-01,Zepto,374,DEBIT,Groceries,False
+2026-03-09,2026-03,2026-03-01,MSEDCL Electricity Bill,880,DEBIT,Bills & Utilities,False
+2026-03-10,2026-03,2026-03-01,BookMyShow,550,DEBIT,Entertainment,False
+2026-03-10,2026-03,2026-03-01,MedPlus,248,DEBIT,Health,False
+2026-03-10,2026-03,2026-03-01,UPI Transfer - Rohan,111,DEBIT,Transfers,False
+2026-03-11,2026-03,2026-03-01,Swiggy,238,DEBIT,Food & Dining,False
+2026-03-12,2026-03,2026-03-01,Apollo Pharmacy,185,DEBIT,Health,False
+2026-03-12,2026-03,2026-03-01,Netflix,199,DEBIT,Entertainment,False
+2026-03-13,2026-03,2026-03-01,PMPML Bus Pass,101,DEBIT,Transport,False
+2026-03-14,2026-03,2026-03-01,Zomato,2850,DEBIT,Food & Dining,True
+2026-03-14,2026-03,2026-03-01,UPI Transfer - Aditya,415,DEBIT,Transfers,False
+2026-03-14,2026-03,2026-03-01,Cafe Coffee Day,537,DEBIT,Food & Dining,False
+2026-03-15,2026-03,2026-03-01,Spotify,119,DEBIT,Entertainment,False
+2026-03-16,2026-03,2026-03-01,Chai Point,81,DEBIT,Food & Dining,False
+2026-03-17,2026-03,2026-03-01,UPI Transfer - Aditya,206,DEBIT,Transfers,False
+2026-03-18,2026-03,2026-03-01,Amazon,406,DEBIT,Shopping,False
+2026-03-19,2026-03,2026-03-01,PVR Cinemas,400,DEBIT,Entertainment,False
+2026-03-20,2026-03,2026-03-01,Blinkit,609,DEBIT,Groceries,False
+2026-03-20,2026-03,2026-03-01,Uber,102,DEBIT,Transport,False
+2026-03-21,2026-03,2026-03-01,Swiggy,179,DEBIT,Food & Dining,False
+2026-03-21,2026-03,2026-03-01,Swiggy,367,DEBIT,Food & Dining,False
+2026-03-21,2026-03,2026-03-01,UPI Transfer - Rohan,212,DEBIT,Transfers,False
+2026-03-23,2026-03,2026-03-01,DMart,777,DEBIT,Groceries,False
+2026-03-23,2026-03,2026-03-01,Swiggy,291,DEBIT,Food & Dining,False
+2026-03-24,2026-03,2026-03-01,Campus Canteen,303,DEBIT,Food & Dining,False
+2026-03-24,2026-03,2026-03-01,Dominos Pizza,133,DEBIT,Food & Dining,False
+2026-03-24,2026-03,2026-03-01,Cafe Coffee Day,189,DEBIT,Food & Dining,False
+2026-03-24,2026-03,2026-03-01,Rapido,66,DEBIT,Transport,False
+2026-03-26,2026-03,2026-03-01,UPI Transfer - Priya,994,DEBIT,Transfers,True
+2026-03-26,2026-03,2026-03-01,UPI Transfer - Aditya,348,DEBIT,Transfers,False
+2026-03-27,2026-03,2026-03-01,UPI Transfer - Priya,489,DEBIT,Transfers,False
+2026-03-27,2026-03,2026-03-01,PMPML Bus Pass,73,DEBIT,Transport,False
+2026-03-27,2026-03,2026-03-01,Dominos Pizza,376,DEBIT,Food & Dining,False
+2026-03-29,2026-03,2026-03-01,Chai Point,315,DEBIT,Food & Dining,False
+2026-03-29,2026-03,2026-03-01,IRCTC,153,DEBIT,Transport,False
+2026-03-30,2026-03,2026-03-01,UPI Transfer - Priya,182,DEBIT,Transfers,False
+2026-03-30,2026-03,2026-03-01,UPI Transfer - Priya,233,DEBIT,Transfers,False
+2026-04-01,2026-04,2026-04-01,Ola,126,DEBIT,Transport,False
+2026-04-01,2026-04,2026-04-01,UPI Credit - Monthly Allowance,14000,CREDIT,Credit,False
+2026-04-02,2026-04,2026-04-01,UPI Transfer - Rohan,585,DEBIT,Transfers,False
+2026-04-04,2026-04,2026-04-01,Campus Canteen,186,DEBIT,Food & Dining,False
+2026-04-04,2026-04,2026-04-01,DMart,495,DEBIT,Groceries,False
+2026-04-04,2026-04,2026-04-01,Ola,101,DEBIT,Transport,False
+2026-04-05,2026-04,2026-04-01,Jio Recharge,299,DEBIT,Bills & Utilities,False
+2026-04-07,2026-04,2026-04-01,Rapido,90,DEBIT,Transport,False
+2026-04-07,2026-04,2026-04-01,Rapido,31,DEBIT,Transport,False
+2026-04-08,2026-04,2026-04-01,Unacademy,432,DEBIT,Education,False
+2026-04-08,2026-04,2026-04-01,UPI Transfer - Priya,173,DEBIT,Transfers,False
+2026-04-08,2026-04,2026-04-01,Cafe Coffee Day,253,DEBIT,Food & Dining,False
+2026-04-09,2026-04,2026-04-01,MSEDCL Electricity Bill,936,DEBIT,Bills & Utilities,False
+2026-04-09,2026-04,2026-04-01,UPI Transfer - Rohan,183,DEBIT,Transfers,False
+2026-04-10,2026-04,2026-04-01,Rapido,129,DEBIT,Transport,False
+2026-04-10,2026-04,2026-04-01,Rapido,140,DEBIT,Transport,False
+2026-04-10,2026-04,2026-04-01,UPI Transfer - Aditya,228,DEBIT,Transfers,False
+2026-04-10,2026-04,2026-04-01,UPI Transfer - Rohan,482,DEBIT,Transfers,False
+2026-04-11,2026-04,2026-04-01,IRCTC,93,DEBIT,Transport,False
+2026-04-11,2026-04,2026-04-01,Ola,63,DEBIT,Transport,False
+2026-04-12,2026-04,2026-04-01,Netflix,199,DEBIT,Entertainment,False
+2026-04-12,2026-04,2026-04-01,Swiggy,295,DEBIT,Food & Dining,False
+2026-04-13,2026-04,2026-04-01,Chai Point,160,DEBIT,Food & Dining,False
+2026-04-14,2026-04,2026-04-01,Local Kirana Store,625,DEBIT,Groceries,False
+2026-04-14,2026-04,2026-04-01,Swiggy,197,DEBIT,Food & Dining,False
+2026-04-15,2026-04,2026-04-01,Spotify,119,DEBIT,Entertainment,False
+2026-04-16,2026-04,2026-04-01,Rapido,109,DEBIT,Transport,False
+2026-04-17,2026-04,2026-04-01,Ola,47,DEBIT,Transport,False
+2026-04-17,2026-04,2026-04-01,Zepto,664,DEBIT,Groceries,False
+2026-04-18,2026-04,2026-04-01,UPI Transfer - Rohan,75,DEBIT,Transfers,False
+2026-04-19,2026-04,2026-04-01,Cafe Coffee Day,199,DEBIT,Food & Dining,False
+2026-04-20,2026-04,2026-04-01,Cafe Coffee Day,140,DEBIT,Food & Dining,False
+2026-04-22,2026-04,2026-04-01,Campus Canteen,200,DEBIT,Food & Dining,False
+2026-04-23,2026-04,2026-04-01,Cafe Coffee Day,173,DEBIT,Food & Dining,False
+2026-04-23,2026-04,2026-04-01,Dominos Pizza,271,DEBIT,Food & Dining,False
+2026-04-24,2026-04,2026-04-01,Chai Point,404,DEBIT,Food & Dining,False
+2026-04-24,2026-04,2026-04-01,DMart,552,DEBIT,Groceries,False
+2026-04-27,2026-04,2026-04-01,IRCTC,94,DEBIT,Transport,False
+2026-04-27,2026-04,2026-04-01,Ola,120,DEBIT,Transport,False
+2026-04-28,2026-04,2026-04-01,Cafe Coffee Day,160,DEBIT,Food & Dining,False
+2026-04-29,2026-04,2026-04-01,UPI Transfer - Aditya,531,DEBIT,Transfers,False
+2026-04-29,2026-04,2026-04-01,UPI Transfer - Priya,362,DEBIT,Transfers,False
+2026-05-01,2026-05,2026-05-01,Zomato,150,DEBIT,Food & Dining,False
+2026-05-01,2026-05,2026-05-01,UPI Credit - Monthly Allowance,14000,CREDIT,Credit,False
+2026-05-03,2026-05,2026-05-01,Apollo Pharmacy,572,DEBIT,Health,False
+2026-05-03,2026-05,2026-05-01,BigBasket,573,DEBIT,Groceries,False
+2026-05-03,2026-05,2026-05-01,Rapido,182,DEBIT,Transport,False
+2026-05-04,2026-05,2026-05-01,Campus Canteen,229,DEBIT,Food & Dining,False
+2026-05-04,2026-05,2026-05-01,PVR Cinemas,509,DEBIT,Entertainment,False
+2026-05-05,2026-05,2026-05-01,Jio Recharge,299,DEBIT,Bills & Utilities,False
+2026-05-05,2026-05,2026-05-01,Swiggy,289,DEBIT,Food & Dining,False
+2026-05-08,2026-05,2026-05-01,IRCTC,111,DEBIT,Transport,False
+2026-05-09,2026-05,2026-05-01,IRCTC,116,DEBIT,Transport,False
+2026-05-09,2026-05,2026-05-01,MSEDCL Electricity Bill,3450,DEBIT,Bills & Utilities,True
+2026-05-12,2026-05,2026-05-01,Netflix,199,DEBIT,Entertainment,False
+2026-05-13,2026-05,2026-05-01,Chai Point,294,DEBIT,Food & Dining,False
+2026-05-14,2026-05,2026-05-01,Zomato,163,DEBIT,Food & Dining,False
+2026-05-15,2026-05,2026-05-01,Swiggy,301,DEBIT,Food & Dining,False
+2026-05-15,2026-05,2026-05-01,Uber,270,DEBIT,Transport,False
+2026-05-15,2026-05,2026-05-01,Spotify,119,DEBIT,Entertainment,False
+2026-05-16,2026-05,2026-05-01,Dominos Pizza,280,DEBIT,Food & Dining,False
+2026-05-17,2026-05,2026-05-01,Zomato,161,DEBIT,Food & Dining,False
+2026-05-18,2026-05,2026-05-01,Cafe Coffee Day,292,DEBIT,Food & Dining,False
+2026-05-19,2026-05,2026-05-01,Zomato,341,DEBIT,Food & Dining,False
+2026-05-21,2026-05,2026-05-01,UPI Transfer - Aditya,215,DEBIT,Transfers,False
+2026-05-22,2026-05,2026-05-01,IRCTC,66,DEBIT,Transport,False
+2026-05-24,2026-05,2026-05-01,Zomato,384,DEBIT,Food & Dining,False
+2026-05-26,2026-05,2026-05-01,BigBasket,683,DEBIT,Groceries,False
+2026-05-26,2026-05,2026-05-01,Amazon,1352,DEBIT,Shopping,False
+2026-05-27,2026-05,2026-05-01,Cafe Coffee Day,136,DEBIT,Food & Dining,False
+2026-05-27,2026-05,2026-05-01,Cafe Coffee Day,155,DEBIT,Food & Dining,False
+2026-05-31,2026-05,2026-05-01,IRCTC,91,DEBIT,Transport,False
+2026-06-01,2026-06,2026-06-01,Flipkart,1049,DEBIT,Shopping,False
+2026-06-01,2026-06,2026-06-01,UPI Credit - Monthly Allowance,14000,CREDIT,Credit,False
+2026-06-02,2026-06,2026-06-01,Zomato,157,DEBIT,Food & Dining,False
+2026-06-03,2026-06,2026-06-01,Uber,86,DEBIT,Transport,False
+2026-06-03,2026-06,2026-06-01,PMPML Bus Pass,104,DEBIT,Transport,False
+2026-06-03,2026-06,2026-06-01,UPI Transfer - Rohan,235,DEBIT,Transfers,False
+2026-06-04,2026-06,2026-06-01,Chai Point,235,DEBIT,Food & Dining,False
+2026-06-04,2026-06,2026-06-01,UPI Transfer - Aditya,249,DEBIT,Transfers,False
+2026-06-05,2026-06,2026-06-01,Campus Canteen,251,DEBIT,Food & Dining,False
+2026-06-05,2026-06,2026-06-01,Jio Recharge,299,DEBIT,Bills & Utilities,False
+2026-06-05,2026-06,2026-06-01,Zomato,326,DEBIT,Food & Dining,False
+2026-06-06,2026-06,2026-06-01,Campus Canteen,171,DEBIT,Food & Dining,False
+2026-06-06,2026-06,2026-06-01,Swiggy,123,DEBIT,Food & Dining,False
+2026-06-06,2026-06,2026-06-01,Zomato,157,DEBIT,Food & Dining,False
+2026-06-07,2026-06,2026-06-01,IRCTC,93,DEBIT,Transport,False
+2026-06-07,2026-06,2026-06-01,UPI Transfer - Priya,633,DEBIT,Transfers,False
+2026-06-08,2026-06,2026-06-01,Ola,129,DEBIT,Transport,False
+2026-06-08,2026-06,2026-06-01,Stationery Shop,131,DEBIT,Education,False
+2026-06-09,2026-06,2026-06-01,MSEDCL Electricity Bill,1059,DEBIT,Bills & Utilities,False
+2026-06-10,2026-06,2026-06-01,Unacademy,313,DEBIT,Education,False
+2026-06-10,2026-06,2026-06-01,Uber,111,DEBIT,Transport,False
+2026-06-11,2026-06,2026-06-01,Campus Canteen,275,DEBIT,Food & Dining,False
+2026-06-11,2026-06,2026-06-01,DMart,425,DEBIT,Groceries,False
+2026-06-11,2026-06,2026-06-01,Ola,112,DEBIT,Transport,False
+2026-06-11,2026-06,2026-06-01,PMPML Bus Pass,132,DEBIT,Transport,False
+2026-06-12,2026-06,2026-06-01,Netflix,199,DEBIT,Entertainment,False
+2026-06-12,2026-06,2026-06-01,Rapido,168,DEBIT,Transport,False
+2026-06-13,2026-06,2026-06-01,Campus Canteen,234,DEBIT,Food & Dining,False
+2026-06-13,2026-06,2026-06-01,PMPML Bus Pass,225,DEBIT,Transport,False
+2026-06-13,2026-06,2026-06-01,UPI Transfer - Priya,182,DEBIT,Transfers,False
+2026-06-14,2026-06,2026-06-01,Campus Canteen,177,DEBIT,Food & Dining,False
+2026-06-14,2026-06,2026-06-01,Flipkart,652,DEBIT,Shopping,False
+2026-06-14,2026-06,2026-06-01,Uber,240,DEBIT,Transport,False
+2026-06-15,2026-06,2026-06-01,Myntra,430,DEBIT,Shopping,False
+2026-06-15,2026-06,2026-06-01,Spotify,119,DEBIT,Entertainment,False
+2026-06-15,2026-06,2026-06-01,BigBasket,566,DEBIT,Groceries,False
+2026-06-16,2026-06,2026-06-01,UPI Transfer - Aditya,200,DEBIT,Transfers,False
+2026-06-16,2026-06,2026-06-01,Uber,70,DEBIT,Transport,False
+2026-06-17,2026-06,2026-06-01,PMPML Bus Pass,29,DEBIT,Transport,False
+2026-06-18,2026-06,2026-06-01,Campus Canteen,431,DEBIT,Food & Dining,False
+2026-06-18,2026-06,2026-06-01,Chai Point,231,DEBIT,Food & Dining,False
+2026-06-18,2026-06,2026-06-01,IRCTC,179,DEBIT,Transport,False
+2026-06-19,2026-06,2026-06-01,Ola,105,DEBIT,Transport,False
+2026-06-20,2026-06,2026-06-01,Blinkit,580,DEBIT,Groceries,False
+2026-06-20,2026-06,2026-06-01,Ola,112,DEBIT,Transport,False
+2026-06-21,2026-06,2026-06-01,IRCTC,91,DEBIT,Transport,False
+2026-06-22,2026-06,2026-06-01,Apollo Pharmacy,366,DEBIT,Health,False
+2026-06-22,2026-06,2026-06-01,Coursera,8999,DEBIT,Education,True
+2026-06-23,2026-06,2026-06-01,Campus Canteen,361,DEBIT,Food & Dining,False
+2026-06-23,2026-06,2026-06-01,Cafe Coffee Day,259,DEBIT,Food & Dining,False
+2026-06-24,2026-06,2026-06-01,Swiggy,231,DEBIT,Food & Dining,False
+2026-06-25,2026-06,2026-06-01,PMPML Bus Pass,112,DEBIT,Transport,False
+2026-06-25,2026-06,2026-06-01,UPI Transfer - Aditya,67,DEBIT,Transfers,False
+2026-06-26,2026-06,2026-06-01,Zomato,329,DEBIT,Food & Dining,False
+2026-06-27,2026-06,2026-06-01,PMPML Bus Pass,38,DEBIT,Transport,False
+2026-06-28,2026-06,2026-06-01,IRCTC,226,DEBIT,Transport,False
+2026-06-28,2026-06,2026-06-01,Swiggy,226,DEBIT,Food & Dining,False
+2026-06-29,2026-06,2026-06-01,BigBasket,436,DEBIT,Groceries,False
+2026-07-01,2026-07,2026-07-01,Cafe Coffee Day,238,DEBIT,Food & Dining,False
+2026-07-01,2026-07,2026-07-01,Cafe Coffee Day,240,DEBIT,Food & Dining,False
+2026-07-01,2026-07,2026-07-01,UPI Credit - Monthly Allowance,14000,CREDIT,Credit,False
+2026-07-02,2026-07,2026-07-01,Chai Point,206,DEBIT,Food & Dining,False
+2026-07-02,2026-07,2026-07-01,Dominos Pizza,264,DEBIT,Food & Dining,False
+2026-07-03,2026-07,2026-07-01,Rapido,141,DEBIT,Transport,False
+2026-07-05,2026-07,2026-07-01,IRCTC,123,DEBIT,Transport,False
+2026-07-05,2026-07,2026-07-01,Jio Recharge,299,DEBIT,Bills & Utilities,False
+2026-07-05,2026-07,2026-07-01,Myntra,1093,DEBIT,Shopping,False
+2026-07-05,2026-07,2026-07-01,UPI Transfer - Priya,448,DEBIT,Transfers,False
+2026-07-06,2026-07,2026-07-01,Zepto,521,DEBIT,Groceries,False
+2026-07-06,2026-07,2026-07-01,Blinkit,348,DEBIT,Groceries,False
+2026-07-07,2026-07,2026-07-01,IRCTC,247,DEBIT,Transport,False
+2026-07-08,2026-07,2026-07-01,Chai Point,473,DEBIT,Food & Dining,False
+2026-07-09,2026-07,2026-07-01,MSEDCL Electricity Bill,901,DEBIT,Bills & Utilities,False
+2026-07-09,2026-07,2026-07-01,PMPML Bus Pass,67,DEBIT,Transport,False
+2026-07-09,2026-07,2026-07-01,PVR Cinemas,276,DEBIT,Entertainment,False
+2026-07-11,2026-07,2026-07-01,Zomato,371,DEBIT,Food & Dining,False
+2026-07-12,2026-07,2026-07-01,BigBasket,723,DEBIT,Groceries,False
+2026-07-12,2026-07,2026-07-01,DMart,580,DEBIT,Groceries,False
+2026-07-12,2026-07,2026-07-01,Netflix,199,DEBIT,Entertainment,False
+2026-07-12,2026-07,2026-07-01,Zomato,147,DEBIT,Food & Dining,False
+2026-07-13,2026-07,2026-07-01,Flipkart,1855,DEBIT,Shopping,False
+2026-07-13,2026-07,2026-07-01,PMPML Bus Pass,67,DEBIT,Transport,False
+2026-07-13,2026-07,2026-07-01,Udemy,340,DEBIT,Education,False
+2026-07-15,2026-07,2026-07-01,Spotify,119,DEBIT,Entertainment,False
+2026-07-15,2026-07,2026-07-01,Udemy,284,DEBIT,Education,False
+2026-07-17,2026-07,2026-07-01,Rapido,127,DEBIT,Transport,False
+2026-07-17,2026-07,2026-07-01,Campus Canteen,164,DEBIT,Food & Dining,False
+2026-07-18,2026-07,2026-07-01,Apollo Pharmacy,152,DEBIT,Health,False
+2026-07-18,2026-07,2026-07-01,Chai Point,345,DEBIT,Food & Dining,False
+2026-07-18,2026-07,2026-07-01,IRCTC,108,DEBIT,Transport,False
+2026-07-19,2026-07,2026-07-01,Chai Point,401,DEBIT,Food & Dining,False
+2026-07-20,2026-07,2026-07-01,MedPlus,334,DEBIT,Health,False
+2026-07-20,2026-07,2026-07-01,PMPML Bus Pass,110,DEBIT,Transport,False
+2026-07-20,2026-07,2026-07-01,Zomato,158,DEBIT,Food & Dining,False
+2026-07-21,2026-07,2026-07-01,PMPML Bus Pass,86,DEBIT,Transport,False
+2026-07-22,2026-07,2026-07-01,Ola,140,DEBIT,Transport,False
+2026-07-24,2026-07,2026-07-01,PVR Cinemas,384,DEBIT,Entertainment,False
+2026-07-25,2026-07,2026-07-01,PMPML Bus Pass,95,DEBIT,Transport,False
+2026-07-25,2026-07,2026-07-01,Uber,175,DEBIT,Transport,False
+2026-07-26,2026-07,2026-07-01,PMPML Bus Pass,133,DEBIT,Transport,False
+2026-07-26,2026-07,2026-07-01,Zepto,782,DEBIT,Groceries,False
+2026-07-27,2026-07,2026-07-01,Uber,46,DEBIT,Transport,False
+2026-07-27,2026-07,2026-07-01,IRCTC,130,DEBIT,Transport,False
+2026-07-28,2026-07,2026-07-01,Cafe Coffee Day,185,DEBIT,Food & Dining,False
+2026-07-28,2026-07,2026-07-01,Uber,97,DEBIT,Transport,False
+2026-07-29,2026-07,2026-07-01,Ola,77,DEBIT,Transport,False
+2026-08-01,2026-08,2026-08-01,PMPML Bus Pass,137,DEBIT,Transport,False
+2026-08-01,2026-08,2026-08-01,UPI Credit - Monthly Allowance,14000,CREDIT,Credit,False
+2026-08-01,2026-08,2026-08-01,UPI Transfer - Aditya,334,DEBIT,Transfers,False
+2026-08-02,2026-08,2026-08-01,Ola,107,DEBIT,Transport,False
+2026-08-05,2026-08,2026-08-01,IRCTC,138,DEBIT,Transport,False
+2026-08-05,2026-08,2026-08-01,Jio Recharge,299,DEBIT,Bills & Utilities,False
+2026-08-06,2026-08,2026-08-01,Swiggy,161,DEBIT,Food & Dining,False
+2026-08-06,2026-08,2026-08-01,Zepto,428,DEBIT,Groceries,False
+2026-08-08,2026-08,2026-08-01,PMPML Bus Pass,99,DEBIT,Transport,False
+2026-08-09,2026-08,2026-08-01,Cafe Coffee Day,286,DEBIT,Food & Dining,False
+2026-08-09,2026-08,2026-08-01,MSEDCL Electricity Bill,933,DEBIT,Bills & Utilities,False
+2026-08-10,2026-08,2026-08-01,UPI Transfer - Aditya,302,DEBIT,Transfers,False
+2026-08-10,2026-08,2026-08-01,Ola,135,DEBIT,Transport,False
+2026-08-10,2026-08,2026-08-01,IRCTC,144,DEBIT,Transport,False
+2026-08-10,2026-08,2026-08-01,Campus Canteen,233,DEBIT,Food & Dining,False
+2026-08-11,2026-08,2026-08-01,Blinkit,659,DEBIT,Groceries,False
+2026-08-12,2026-08,2026-08-01,Netflix,199,DEBIT,Entertainment,False
+2026-08-12,2026-08,2026-08-01,Rapido,137,DEBIT,Transport,False
+2026-08-13,2026-08,2026-08-01,IRCTC,72,DEBIT,Transport,False
+2026-08-13,2026-08,2026-08-01,Myntra,1859,DEBIT,Shopping,False
+2026-08-14,2026-08,2026-08-01,Cafe Coffee Day,247,DEBIT,Food & Dining,False
+2026-08-14,2026-08,2026-08-01,PVR Cinemas,392,DEBIT,Entertainment,False
+2026-08-15,2026-08,2026-08-01,Spotify,119,DEBIT,Entertainment,False
+2026-08-15,2026-08,2026-08-01,Unacademy,361,DEBIT,Education,False
+2026-08-16,2026-08,2026-08-01,UPI Transfer - Priya,254,DEBIT,Transfers,False
+2026-08-17,2026-08,2026-08-01,Cafe Coffee Day,285,DEBIT,Food & Dining,False
+2026-08-18,2026-08,2026-08-01,Uber,194,DEBIT,Transport,False
+2026-08-19,2026-08,2026-08-01,PMPML Bus Pass,230,DEBIT,Transport,False
+2026-08-19,2026-08,2026-08-01,Unacademy,325,DEBIT,Education,False
+2026-08-19,2026-08,2026-08-01,Campus Canteen,202,DEBIT,Food & Dining,False
+2026-08-20,2026-08,2026-08-01,Rapido,374,DEBIT,Transport,False
+2026-08-21,2026-08,2026-08-01,IRCTC,228,DEBIT,Transport,False
+2026-08-22,2026-08,2026-08-01,DMart,731,DEBIT,Groceries,False
+2026-08-23,2026-08,2026-08-01,Chai Point,332,DEBIT,Food & Dining,False
+2026-08-23,2026-08,2026-08-01,Zomato,257,DEBIT,Food & Dining,False
+2026-08-24,2026-08,2026-08-01,Swiggy,209,DEBIT,Food & Dining,False
+2026-08-24,2026-08,2026-08-01,Zomato,129,DEBIT,Food & Dining,False
+2026-08-27,2026-08,2026-08-01,UPI Transfer - Rohan,6000,DEBIT,Transfers,True
+2026-09-01,2026-09,2026-09-01,UPI Credit - Monthly Allowance,14000,CREDIT,Credit,False
+2026-09-01,2026-09,2026-09-01,UPI Transfer - Rohan,298,DEBIT,Transfers,False
+2026-09-02,2026-09,2026-09-01,IRCTC,97,DEBIT,Transport,False
+2026-09-02,2026-09,2026-09-01,IRCTC,183,DEBIT,Transport,False
+2026-09-02,2026-09,2026-09-01,Uber,78,DEBIT,Transport,False
+2026-09-04,2026-09,2026-09-01,Decathlon,859,DEBIT,Shopping,False
+2026-09-04,2026-09,2026-09-01,Udemy,420,DEBIT,Education,False
+2026-09-05,2026-09,2026-09-01,Jio Recharge,299,DEBIT,Bills & Utilities,False
+2026-09-06,2026-09,2026-09-01,Dominos Pizza,342,DEBIT,Food & Dining,False
+2026-09-07,2026-09,2026-09-01,BigBasket,609,DEBIT,Groceries,False
+2026-09-07,2026-09,2026-09-01,Chai Point,154,DEBIT,Food & Dining,False
+2026-09-09,2026-09,2026-09-01,BigBasket,588,DEBIT,Groceries,False
+2026-09-09,2026-09,2026-09-01,Flipkart,844,DEBIT,Shopping,False
+2026-09-09,2026-09,2026-09-01,MSEDCL Electricity Bill,954,DEBIT,Bills & Utilities,False
+2026-09-10,2026-09,2026-09-01,Cafe Coffee Day,157,DEBIT,Food & Dining,False
+2026-09-10,2026-09,2026-09-01,Ola,260,DEBIT,Transport,False
+2026-09-10,2026-09,2026-09-01,PMPML Bus Pass,113,DEBIT,Transport,False
+2026-09-10,2026-09,2026-09-01,Zomato,323,DEBIT,Food & Dining,False
+2026-09-11,2026-09,2026-09-01,Uber,139,DEBIT,Transport,False
+2026-09-12,2026-09,2026-09-01,Cafe Coffee Day,284,DEBIT,Food & Dining,False
+2026-09-12,2026-09,2026-09-01,Flipkart,478,DEBIT,Shopping,False
+2026-09-12,2026-09,2026-09-01,Netflix,199,DEBIT,Entertainment,False
+2026-09-12,2026-09,2026-09-01,Zomato,363,DEBIT,Food & Dining,False
+2026-09-15,2026-09,2026-09-01,Spotify,119,DEBIT,Entertainment,False
+2026-09-15,2026-09,2026-09-01,MedPlus,174,DEBIT,Health,False
+2026-09-16,2026-09,2026-09-01,Amazon,718,DEBIT,Shopping,False
+2026-09-17,2026-09,2026-09-01,PMPML Bus Pass,101,DEBIT,Transport,False
+2026-09-17,2026-09,2026-09-01,PMPML Bus Pass,105,DEBIT,Transport,False
+2026-09-17,2026-09,2026-09-01,Rapido,70,DEBIT,Transport,False
+2026-09-19,2026-09,2026-09-01,Ola,40,DEBIT,Transport,False
+2026-09-21,2026-09,2026-09-01,IRCTC,121,DEBIT,Transport,False
+2026-09-22,2026-09,2026-09-01,Cafe Coffee Day,387,DEBIT,Food & Dining,False
+2026-09-24,2026-09,2026-09-01,UPI Transfer - Priya,248,DEBIT,Transfers,False
+2026-09-26,2026-09,2026-09-01,Local Kirana Store,400,DEBIT,Groceries,False
+2026-09-26,2026-09,2026-09-01,UPI Transfer - Aditya,433,DEBIT,Transfers,False
+2026-09-28,2026-09,2026-09-01,Cafe Coffee Day,143,DEBIT,Food & Dining,False
+2026-09-28,2026-09,2026-09-01,Ola,156,DEBIT,Transport,False
+2026-09-29,2026-09,2026-09-01,IRCTC,110,DEBIT,Transport,False
+2026-09-29,2026-09,2026-09-01,Uber,111,DEBIT,Transport,False
+2026-09-30,2026-09,2026-09-01,PMPML Bus Pass,126,DEBIT,Transport,False

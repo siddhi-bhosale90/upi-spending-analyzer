@@ -1,0 +1,7 @@
+month,category,total_spend,expected_spend,score,pct_above_expected,mom_pct_change,reason
+2026-06,Education,9443.0,0.0,37.8,,,"Education spend of INR 9,443 in 2026-06 vs typical INR 0 for other months"
+2026-05,Bills & Utilities,3749.0,1200.0,10.2,212.4,203.6,"Bills & Utilities spend of INR 3,749 in 2026-05 vs typical INR 1,200 for other months"
+2026-08,Transfers,6890.0,979.0,5.8,603.8,1437.9,"Transfers spend of INR 6,890 in 2026-08 vs typical INR 979 for other months"
+2025-10,Shopping,10951.0,1352.0,4.8,710.0,,"Shopping spend of INR 10,951 in 2025-10 vs typical INR 1,352 for other months"
+2025-12,Groceries,5874.0,2336.0,4.6,151.5,104.7,"Groceries spend of INR 5,874 in 2025-12 vs typical INR 2,336 for other months"
+2026-06,TOTAL,23725.0,12746.0,3.7,86.1,98.0,"TOTAL spend of INR 23,725 in 2026-06 vs typical INR 12,746 for other months"
