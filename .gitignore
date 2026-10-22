@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+
+# Keep real bank / UPI statements OUT of Git. Put your own exports here:
+data/private/
+data/real/
+*.private.csv
